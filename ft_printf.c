@@ -5,10 +5,11 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: mllamas- <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/09/30 18:01:50 by mllamas-          #+#    #+#             */
-/*   Updated: 2023/10/04 18:31:15 by mllamas-         ###   ########.fr       */
+/*   Created: 2023/10/10 10:54:50 by mllamas-          #+#    #+#             */
+/*   Updated: 2023/10/10 10:54:54 by mllamas-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "ft_printf.h"
 
 void	ft_format(char const *format, va_list args, size_t *count)
